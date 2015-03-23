@@ -1,19 +1,19 @@
 
-a="john"
+a="John"
 b="Ruby"
-c="alisha"
+c="Alisha"
 d="Mindy"
 e="BigBoss"
 
 
-def hello(x)
+def geeting(x)
 
   puts "hello "+x+" !"
 
 end
 
-hello(a);
-hello(b);
-hello(c);
-hello(d);
-hello(e);
+geeting(a);
+geeting(b);
+geeting(c);
+geeting(d);
+geeting(e);
