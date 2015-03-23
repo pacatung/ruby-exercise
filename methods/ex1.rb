@@ -6,14 +6,14 @@ d="Mindy"
 e="BigBoss"
 
 
-def geeting(x)
+def greeting(x)
 
   puts "hello "+x+" !"
 
 end
 
-geeting(a);
-geeting(b);
-geeting(c);
-geeting(d);
-geeting(e);
+greeting(a);
+greeting(b);
+greeting(c);
+greeting(d);
+greeting(e);
