@@ -8,7 +8,7 @@ bob_family=[]
 joe_family=[]
 steve_family=[]
 
-p "uncles : #{family[:uncles]}"
+puts "uncles : #{family[:uncles]}"
 p "sisters : #{family[:sisters]}"
 p "brothers : #{family[:brothers]}"
 p "aunts : #{family[:aunts]}"
